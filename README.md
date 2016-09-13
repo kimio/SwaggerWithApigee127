@@ -21,3 +21,8 @@ Install writing the command on terminal
 ```
 curl -sSL https://raw.githubusercontent.com/kimio/SwaggerWithApigee127/master/InstallAndRunApigee127.command | bash
 ```
+
+Run Swagger
+```
+curl -sSL https://raw.githubusercontent.com/kimio/SwaggerWithApigee127/master/RunSwagger.command | bash
+```
