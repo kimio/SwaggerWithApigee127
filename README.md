@@ -12,6 +12,9 @@ Prerequisites
 -------------
 
 You will need npm version 1.3 or higher. You will also need Node.js version 0.10.24 or higher.
+```
+curl -sSL https://raw.githubusercontent.com/kimio/InstallNode/master/InstallNode.command | bash
+```
 
 
 Install and Running
